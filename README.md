@@ -1,4 +1,4 @@
-# Boolean Query Schemes
+# Boolean Query SSE Schemes
 This repository includes a set of prototypes for several boolean query SSE schemes. 
 
 In particular, we implement three SSE schemes proposed in [1]: Single Keyword Search (SKS), Basic Cross-Tags Protocol (BXT), Oblivious Cross-Tags Protocol (OXT). Moreover, we implement a variant of OXT based on public-key based hidden vector encryption, named Hidden Cross-Tags Protocol (HXT). 
